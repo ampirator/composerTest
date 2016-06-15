@@ -1,0 +1,10 @@
+framework module Composer {
+  umbrella header "Composer.h"
+
+  export *
+  module * { export * }
+}
+
+module Composer.Swift {
+    header "Composer-Swift.h"
+}
