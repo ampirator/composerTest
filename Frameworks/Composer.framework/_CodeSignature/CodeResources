@@ -4,6 +4,42 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/libswiftContacts.dylib</key>
+		<data>
+		FJ8eJCWHQpMkdRSQjJMgumwD83s=
+		</data>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<data>
+		4xDWC5GF8JSD5ExqHgWAOm72S8k=
+		</data>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<data>
+		zWD4RQniY2Xlb127jipi5EMSdgI=
+		</data>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<data>
+		FjEu+GI/slISjuXhjOe7tpi4e4A=
+		</data>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<data>
+		V4ZUPlcCuTpJt59sRYaYnUVONx8=
+		</data>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<data>
+		9TBWsbIQv4cUpJk5wvlhoiBDHTM=
+		</data>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<data>
+		dJjoRH88CREQIN2lOASPkVmJ/2Q=
+		</data>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<data>
+		O0arJGPgv2zESasef0qjp5MzJgI=
+		</data>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<data>
+		nWLnEj8Xet5/py9Gtt+Im5TlbAw=
+		</data>
 		<key>Headers/Composer-Swift.h</key>
 		<data>
 		1kH/lV5JuU/abPDBjUpaPJOPYRw=
@@ -22,7 +58,7 @@
 		</data>
 		<key>Modules/Composer.swiftmodule/arm.swiftmodule</key>
 		<data>
-		uZq5eIu3+EYXcEi3YaQ1hhE8Vjc=
+		5Xkt352IPrFdNph8Fybcq52gvx0=
 		</data>
 		<key>Modules/Composer.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -30,7 +66,7 @@
 		</data>
 		<key>Modules/Composer.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		sFrP3tR0oA46RXvzFp9fvMovKbQ=
+		MRFGvorwwv3Tps+jdQB845d+ZJk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,6 +75,105 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/libswiftContacts.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FJ8eJCWHQpMkdRSQjJMgumwD83s=
+			</data>
+			<key>hash2</key>
+			<data>
+			UGS9PXkn28LNordlS2EUoFy+8+GPp/FntjY5G6s3EaA=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4xDWC5GF8JSD5ExqHgWAOm72S8k=
+			</data>
+			<key>hash2</key>
+			<data>
+			x7q5OVrXsTmnZ76lF/9nZVFzu9irZzcrrfU3klWpeEI=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zWD4RQniY2Xlb127jipi5EMSdgI=
+			</data>
+			<key>hash2</key>
+			<data>
+			aQpHorDARN2FNwwWalApQq/VisMogUFf+7ESXGAalAI=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FjEu+GI/slISjuXhjOe7tpi4e4A=
+			</data>
+			<key>hash2</key>
+			<data>
+			LxMYezB8orPi146ny4Bza4LGoQ9xJMW7O7pCeTI0eJU=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V4ZUPlcCuTpJt59sRYaYnUVONx8=
+			</data>
+			<key>hash2</key>
+			<data>
+			d1cckUySklak+PR+W29kF8Cuu1vyOkm1sJ5Z76BPtCk=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9TBWsbIQv4cUpJk5wvlhoiBDHTM=
+			</data>
+			<key>hash2</key>
+			<data>
+			0cfhynScwjbG7lBqlsIJEJGYAIrm1dxoSe3cPeDZvco=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dJjoRH88CREQIN2lOASPkVmJ/2Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			Fv/cPIBRfRdkRVrvJwlvhuSsYYCH9VeWOxUDb2n2tzY=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O0arJGPgv2zESasef0qjp5MzJgI=
+			</data>
+			<key>hash2</key>
+			<data>
+			ywKzJbG7SOGsuWe29V9tYDoBEM4tnqgk+zIArUIltVY=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nWLnEj8Xet5/py9Gtt+Im5TlbAw=
+			</data>
+			<key>hash2</key>
+			<data>
+			rChhvA9naqbCfrf/NgH6sD5yb8AY8Y10BvHreowC/yo=
+			</data>
+		</dict>
 		<key>Headers/Composer-Swift.h</key>
 		<dict>
 			<key>hash</key>
@@ -76,11 +211,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uZq5eIu3+EYXcEi3YaQ1hhE8Vjc=
+			5Xkt352IPrFdNph8Fybcq52gvx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			prbBxj6TPPTF3yrp7m96vchGfSLYX4LGVkabaum7Sbw=
+			Jjm+e9Im55SyV4z2l+xK4WpKLCTgoHnJPwRNR5bL/zg=
 			</data>
 		</dict>
 		<key>Modules/Composer.swiftmodule/arm64.swiftdoc</key>
@@ -98,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sFrP3tR0oA46RXvzFp9fvMovKbQ=
+			MRFGvorwwv3Tps+jdQB845d+ZJk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZN6GrhAPfn3s6lcuzVStkXHL5UA09mYf/v3MQUdZrYk=
+			BxGf3+B1k1uU+aoy0utPUV0X1oqsZ4mmW+Ypi9N7/kk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

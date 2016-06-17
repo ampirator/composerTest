@@ -6,7 +6,43 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		CGSayNFJphVJr4KFv7CR1lAQxAQ=
+		xh05b1qWBLw6qoD1lAt6bUPwmCU=
+		</data>
+		<key>Frameworks/libswiftContacts.dylib</key>
+		<data>
+		4OatWibbXhPip+fnnaXesKEwdUk=
+		</data>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<data>
+		S8PUeDwwf9HUqlA1CEzEmS15FHM=
+		</data>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<data>
+		hbWvi8LAjEI8Q19LcEg+kiqqI/4=
+		</data>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<data>
+		grb1VG2NpfxZOhed/eXEppDKRHM=
+		</data>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<data>
+		s4wkTeDlOocKu7iWfjKne5/7RCc=
+		</data>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<data>
+		nFFQ+iOJ6LYYZSN+jMvTbgUOCpw=
+		</data>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<data>
+		vwRUzZLcH1LAM9ff2wmh4TsThR8=
+		</data>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<data>
+		lajkBmcNzNAdZeASv4RYUZGdWO4=
+		</data>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<data>
+		cpNvyG1jT5ELmJhsq0XtrVxoNQs=
 		</data>
 		<key>Headers/OAuth-Swift.h</key>
 		<data>
@@ -26,7 +62,7 @@
 		</data>
 		<key>Modules/OAuth.swiftmodule/arm.swiftmodule</key>
 		<data>
-		Y6Kl2/OyQKoey9X6nKHV8GsC5Ek=
+		VxsHVwglBOfPOGnzLPMSbW8eKIg=
 		</data>
 		<key>Modules/OAuth.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,7 +70,7 @@
 		</data>
 		<key>Modules/OAuth.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		jA/BYDozU8pWxhL3JGAW0no/bfw=
+		wX3UH9ndkjdLfnmpwSko8PWjVB0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,11 +83,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CGSayNFJphVJr4KFv7CR1lAQxAQ=
+			xh05b1qWBLw6qoD1lAt6bUPwmCU=
 			</data>
 			<key>hash2</key>
 			<data>
-			aZpQFLIXDO9j7oNYJdII0bgZhz9hJskZOeKJztMffvM=
+			ofMuNbz7MWgZgjY+Bi98HU8XXJI2rc+RaL3/8tmtFHg=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftContacts.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4OatWibbXhPip+fnnaXesKEwdUk=
+			</data>
+			<key>hash2</key>
+			<data>
+			LUFdq78ClAlp6WJWOaqKdshDQ70PtsLyg0cIZe7mCIg=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S8PUeDwwf9HUqlA1CEzEmS15FHM=
+			</data>
+			<key>hash2</key>
+			<data>
+			T5DfWf2X9Nw93xIgxC2j47WR9sUVgZXb1DKZuEnXMp8=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hbWvi8LAjEI8Q19LcEg+kiqqI/4=
+			</data>
+			<key>hash2</key>
+			<data>
+			zna4L3WyCaO67qFkxBbHTXqzU2wQk27v7XhLLv4oJ98=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			grb1VG2NpfxZOhed/eXEppDKRHM=
+			</data>
+			<key>hash2</key>
+			<data>
+			u/kuP+7dTO8S3kED2yOJCI5MnZQM80mH965sIGw3F2A=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s4wkTeDlOocKu7iWfjKne5/7RCc=
+			</data>
+			<key>hash2</key>
+			<data>
+			UsEgelvJTAgeOvbHb45Il8HWouIgKsIjy8Ipgra1Kj4=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nFFQ+iOJ6LYYZSN+jMvTbgUOCpw=
+			</data>
+			<key>hash2</key>
+			<data>
+			3rt2rHPrgeZCV2YMFgwTyFOcv/ki6jKgfododheA+EQ=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vwRUzZLcH1LAM9ff2wmh4TsThR8=
+			</data>
+			<key>hash2</key>
+			<data>
+			h/ScYRyxQDWgJSERX43SvatxoitHpfK+V8MO65MmrDk=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lajkBmcNzNAdZeASv4RYUZGdWO4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Re9rIjSMJvb/gV5LdtntF/iMW2o80W4iF1LfroTi97Q=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cpNvyG1jT5ELmJhsq0XtrVxoNQs=
+			</data>
+			<key>hash2</key>
+			<data>
+			ykHovJQ2sqvdxkkQohAKTFbvaJ+scO3R1NMmH6WGPf8=
 			</data>
 		</dict>
 		<key>Headers/OAuth-Swift.h</key>
@@ -91,11 +226,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y6Kl2/OyQKoey9X6nKHV8GsC5Ek=
+			VxsHVwglBOfPOGnzLPMSbW8eKIg=
 			</data>
 			<key>hash2</key>
 			<data>
-			8D87gw2pqnSY7hLA7/BBGqfWbzaSuHIPuI49M0ke124=
+			IWtNGuHSdvN3Gmf1QYSkKDuQkp8vHPwhi/8+eTcBBdo=
 			</data>
 		</dict>
 		<key>Modules/OAuth.swiftmodule/arm64.swiftdoc</key>
@@ -113,11 +248,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jA/BYDozU8pWxhL3JGAW0no/bfw=
+			wX3UH9ndkjdLfnmpwSko8PWjVB0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ubaP77+IzAGX8nbkw0NfOAAf6WUL/HH1aXY2O8jOxb4=
+			++vW7VASCzdUbZgMZv5Qa0ba/VLefsYgYL5X6/PesZQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
