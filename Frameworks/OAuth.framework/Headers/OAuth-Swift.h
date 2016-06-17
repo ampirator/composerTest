@@ -102,7 +102,7 @@ typedef int swift_int4  __attribute__((__ext_vector_type__(4)));
 @class NSURLRequest;
 @protocol OAuthPopupViewControllerDelegate;
 
-SWIFT_CLASS("_TtC5Login24OAuthPopupViewController")
+SWIFT_CLASS("_TtC5OAuth24OAuthPopupViewController")
 @interface OAuthPopupViewController : UIViewController <UIWebViewDelegate>
 + (NSString * _Nonnull)tinyPassEndpoint;
 + (NSString * _Nonnull)sandboxEndpoint;
@@ -119,7 +119,7 @@ SWIFT_CLASS("_TtC5Login24OAuthPopupViewController")
 @end
 
 
-SWIFT_PROTOCOL("_TtP5Login32OAuthPopupViewControllerDelegate_")
+SWIFT_PROTOCOL("_TtP5OAuth32OAuthPopupViewControllerDelegate_")
 @protocol OAuthPopupViewControllerDelegate
 - (void)loginSucceeded:(NSString * _Nonnull)accessToken;
 - (void)loginCancelled;
