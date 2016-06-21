@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Composer-Swift.h</key>
 		<data>
-		1kH/lV5JuU/abPDBjUpaPJOPYRw=
+		WW0Or796z8UQaPB6XreIEAWdYkc=
 		</data>
 		<key>Headers/Composer.h</key>
 		<data>
@@ -18,19 +18,19 @@
 		</data>
 		<key>Modules/Composer.swiftmodule/arm.swiftdoc</key>
 		<data>
-		yvaWsNDspldY0o2iyJbqWgh5kVo=
+		9+fznzmScF6VBnjJ9dLuhB33y9A=
 		</data>
 		<key>Modules/Composer.swiftmodule/arm.swiftmodule</key>
 		<data>
-		Ci4bcR3owcbtvmCgiT5Eh534HjM=
+		5UDl5CtB09qVh/zRfDGY+KpW/Ks=
 		</data>
 		<key>Modules/Composer.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		QhVwJcR5digU0ki9MGu0k4L8fwo=
+		BuUZ/lKYH8Axfb56c7IHe7Sq1Jg=
 		</data>
 		<key>Modules/Composer.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		v5bL0fwD2o7ifN3HLLGGiiWyzJE=
+		OzX9RGevypgfsalt2jJsFW6vBfU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1kH/lV5JuU/abPDBjUpaPJOPYRw=
+			WW0Or796z8UQaPB6XreIEAWdYkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			x4gWAwJfJXgomYhRpx3MSeYUWLL2tTCOzzmSqvnw3/Y=
+			APXYLCZ5wzygMK9ZRg8e9mHIp5cToFGvC1mkZEVtLWk=
 			</data>
 		</dict>
 		<key>Headers/Composer.h</key>
@@ -65,44 +65,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yvaWsNDspldY0o2iyJbqWgh5kVo=
+			9+fznzmScF6VBnjJ9dLuhB33y9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			5FrcHqHeGZNwWcCRqiUYyr42Q1CaSyy99a4RJyyNeLI=
+			2VBjagMOOFoIknSgm6xpEbEbwPZ+mbX+48/JcbHdYBE=
 			</data>
 		</dict>
 		<key>Modules/Composer.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ci4bcR3owcbtvmCgiT5Eh534HjM=
+			5UDl5CtB09qVh/zRfDGY+KpW/Ks=
 			</data>
 			<key>hash2</key>
 			<data>
-			7APEXL2DdTn6rl8vFyc4LV/vjWk6O72OAOrF/FnWbsQ=
+			4hHBGdjWXea8Mc2t56/huaARTOFBGzC7UQv+iM1ajeA=
 			</data>
 		</dict>
 		<key>Modules/Composer.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QhVwJcR5digU0ki9MGu0k4L8fwo=
+			BuUZ/lKYH8Axfb56c7IHe7Sq1Jg=
 			</data>
 			<key>hash2</key>
 			<data>
-			NMvx3kt7fj2mFeVyN2dl7m0EF1MpzdUNeCnQl+tRcV4=
+			Qo1gfdhoy7yh/UzSL8aEuNVmc2sXbTFk5T21VLp+pd4=
 			</data>
 		</dict>
 		<key>Modules/Composer.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v5bL0fwD2o7ifN3HLLGGiiWyzJE=
+			OzX9RGevypgfsalt2jJsFW6vBfU=
 			</data>
 			<key>hash2</key>
 			<data>
-			kmQE1aQWDQmfV+E/Po6TytFwYmP8WjB7Q0HVZXCcvZo=
+			W0QQk55lWznQznzcO7DH/uGyPnVQzhlBISx234nRoRk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

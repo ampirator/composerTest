@@ -102,10 +102,10 @@ typedef int swift_int4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC8Composer8Composer")
 @interface Composer : NSObject
-+ (NSString * _Nonnull)tinyPassEndpoint;
-+ (NSString * _Nonnull)sandboxEndpoint;
++ (NSString * _Nonnull)tinyPassEndpointUrl;
++ (NSString * _Nonnull)sandboxEndpointUrl;
 @property (nonatomic, weak) id <ComposerDelegate> _Nullable delegate;
-@property (nonatomic, copy) NSString * _Nonnull endpoint;
+@property (nonatomic, copy) NSString * _Nonnull endpointUrl;
 @property (nonatomic, readonly, copy) NSString * _Nonnull aid;
 @property (nonatomic, readonly) NSInteger protocolVersion;
 @property (nonatomic, copy) NSSet<NSString *> * _Nonnull tags;
@@ -118,9 +118,10 @@ SWIFT_CLASS("_TtC8Composer8Composer")
 @property (nonatomic) BOOL debug;
 @property (nonatomic, copy) NSString * _Nonnull userToken;
 @property (nonatomic, copy) NSString * _Nonnull userProvider;
-- (nonnull instancetype)initWithAid:(NSString * _Nonnull)aid OBJC_DESIGNATED_INITIALIZER;
-- (nonnull instancetype)initWithAid:(NSString * _Nonnull)aid sandbox:(BOOL)sandbox OBJC_DESIGNATED_INITIALIZER;
-- (Composer * _Nonnull)endpoint:(NSString * _Nonnull)endpoint;
+- (nonnull instancetype)initWithAid:(NSString * _Nonnull)aid endpointUrl:(NSString * _Nonnull)endpointUrl OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithAid:(NSString * _Nonnull)aid;
+- (nonnull instancetype)initWithAid:(NSString * _Nonnull)aid sandbox:(BOOL)sandbox;
+- (Composer * _Nonnull)endpointUrl:(NSString * _Nonnull)endpointUrl;
 - (Composer * _Nonnull)tag:(NSString * _Nonnull)tag;
 - (Composer * _Nonnull)tags:(NSArray<NSString *> * _Nonnull)tagCollection;
 - (Composer * _Nonnull)customVariable:(NSString * _Nonnull)name value:(id _Nonnull)value;
@@ -172,6 +173,7 @@ SWIFT_PROTOCOL("_TtP8Composer16ComposerDelegate_")
 - (void)experienceExecute:(Composer * _Nonnull)composer event:(XpEvent * _Nonnull)event params:(ExperienceExecuteEventParams * _Nullable)params;
 @required
 
+/// Event fired by composer when async task was completed and all experience event fired
 - (void)executionCompleted:(Composer * _Nonnull)composer;
 @end
 

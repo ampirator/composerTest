@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ItkrOByb4Kz5tNAkQCARVrrYbSI=
+		a3C2Dz6EvRck9/zzfA92qmlQ1Ig=
 		</data>
 		<key>Headers/OAuth-Swift.h</key>
 		<data>
-		5nltQnoFmvPZOw1MFGlMAlCZxSM=
+		BB7TBjU8x26+X1my9v+6LZtW390=
 		</data>
 		<key>Headers/OAuth.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/OAuth.swiftmodule/arm.swiftdoc</key>
 		<data>
-		vX3li+0pmJfxIOleJRvM7XzulwQ=
+		f6eHo2K7uS536B954SD9i6RglL8=
 		</data>
 		<key>Modules/OAuth.swiftmodule/arm.swiftmodule</key>
 		<data>
-		xtf2cT8p4Sr1P2sOvCSJRINqyPE=
+		BNmLhHQMF4nqIDp09wH7eemHEzc=
 		</data>
 		<key>Modules/OAuth.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/OAuth.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		/MJ2fGDBqYdgmmYCbK+y7HHyz9M=
+		fNsv4peh8JhEvic4NONylSZi5nU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,22 +47,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ItkrOByb4Kz5tNAkQCARVrrYbSI=
+			a3C2Dz6EvRck9/zzfA92qmlQ1Ig=
 			</data>
 			<key>hash2</key>
 			<data>
-			ywurEJ3x8IOJjjTzmamNNH6U6vS0sOm3TPqxX67r8oU=
+			v4ijOJEdpnbl20aNS+D0vVGR1z+gQM5EATHBbF+lH7I=
 			</data>
 		</dict>
 		<key>Headers/OAuth-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5nltQnoFmvPZOw1MFGlMAlCZxSM=
+			BB7TBjU8x26+X1my9v+6LZtW390=
 			</data>
 			<key>hash2</key>
 			<data>
-			+pRNZG85w1n7+2JcTqH2ArEnWFHClHNoksf5uswwg9g=
+			ujHO6lXSZZjCfzocg+Jks6iknwL+NfrpCcPdJJ5rJBw=
 			</data>
 		</dict>
 		<key>Headers/OAuth.h</key>
@@ -80,22 +80,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vX3li+0pmJfxIOleJRvM7XzulwQ=
+			f6eHo2K7uS536B954SD9i6RglL8=
 			</data>
 			<key>hash2</key>
 			<data>
-			4jL5SYsuUZwVrVKRBF0W93GFHjdKVzLWV5emq9vS8g4=
+			j8zVPdSAKTyf/74XUoG5e4K4bpVRjvGMy2p7joUuAbY=
 			</data>
 		</dict>
 		<key>Modules/OAuth.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xtf2cT8p4Sr1P2sOvCSJRINqyPE=
+			BNmLhHQMF4nqIDp09wH7eemHEzc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Edmzx9YV9fFLm1MJMH4DedcoWTjrCKgPJXf4B2gMt5E=
+			tB/aDFWWOUc1vPkqwRXfD7/mjA9tCm9NTAs0zOsWTjA=
 			</data>
 		</dict>
 		<key>Modules/OAuth.swiftmodule/arm64.swiftdoc</key>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/MJ2fGDBqYdgmmYCbK+y7HHyz9M=
+			fNsv4peh8JhEvic4NONylSZi5nU=
 			</data>
 			<key>hash2</key>
 			<data>
-			MKuGM7B+LveZUXNwpIhku/sThw6KiirAQ5z//Nv60js=
+			9WdVdNSo789sCd+gOMCWxg7UBYJlc9J8B8Di8b2NogA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
